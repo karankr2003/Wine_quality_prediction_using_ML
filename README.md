@@ -1,1 +1,1 @@
-# Wine_quality_prediction_using_ML
+# Wine_Quality_prediction_using_ML
